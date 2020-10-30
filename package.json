@@ -11,7 +11,7 @@
   "files": [
     "dist",
     "macro.js",
-    "macro.d.ts",
+    "types.d.ts",
     "README.md",
     "LICENSE"
   ],
