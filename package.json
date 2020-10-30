@@ -12,7 +12,7 @@
     "dist",
     "macro.js",
     "dedent.d.ts",
-    "macros.d.ts",
+    "macro.d.ts",
     "README.md",
     "LICENSE"
   ],
