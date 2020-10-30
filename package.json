@@ -1,6 +1,6 @@
 {
   "name": "@cometlib/dedent",
-  "version": "0.7.0",
+  "version": "0.8.0-es.1",
   "description": "An ES6 string tag that strips indentation from multi-line strings",
   "main": "./dist/dedent.js",
   "module": "./dist/dedent.mjs",
