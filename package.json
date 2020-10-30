@@ -1,6 +1,6 @@
 {
   "name": "@cometlib/dedent",
-  "version": "0.8.0-es.1",
+  "version": "0.8.0-es.2",
   "description": "An ES6 string tag that strips indentation from multi-line strings",
   "main": "./dist/dedent.js",
   "module": "./dist/dedent.mjs",
@@ -9,11 +9,11 @@
     "access": "public"
   },
   "files": [
-    "./dist",
-    "./macro.js",
-    "./macro.d.ts",
-    "./README.md",
-    "./LICENSE"
+    "dist",
+    "macro.js",
+    "macro.d.ts",
+    "README.md",
+    "LICENSE"
   ],
   "repository": {
     "type": "git",
