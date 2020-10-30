@@ -1,10 +1,13 @@
 {
-  "name": "dedent",
+  "name": "@cometlib/dedent",
   "version": "0.7.0",
   "description": "An ES6 string tag that strips indentation from multi-line strings",
   "main": "./dist/dedent.js",
   "module": "./dist/dedent.mjs",
   "types": "./dedent.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "./dist",
     "./macro.js",
@@ -27,6 +30,12 @@
     "email": "dmnd@desmondbrand.com",
     "url": "http://desmondbrand.com"
   },
+  "maintainers": [
+    {
+      "name": "Hyeseong Kim",
+      "email": "cometkim.kr@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmnd/dedent/issues"
